@@ -1,0 +1,12 @@
+cd -> mudar de diretorio
+clear -> limpar tela
+git add . -> adiciona todos os arquivos ao repositorio
+git add 'nome do arquivo' -> adiciona apenas o arquivo selecionado ao repositorio
+git status -> exibe statuso do repositorio
+git log -> exibe os logs de alterações 
+git commit -m 'comentario' -> executa commit no repositorio com o comentario sobre as alterações realizadas
+git push -> envia os arquivos para o servidor
+git pull -> baixa os aquivos do servidor
+git config -> configurações do repositorio
+git config --local user.name -> Informar nome do usuario
+git config --local user.email -> Informar email do usuario
