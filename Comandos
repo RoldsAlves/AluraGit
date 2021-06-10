@@ -10,3 +10,10 @@ git pull -> baixa os aquivos do servidor
 git config -> configurações do repositorio
 git config --local user.name -> Informar nome do usuario
 git config --local user.email -> Informar email do usuario
+git checkout 'nome branch' -> mudar de branch
+git chekcout -b 'nome branch' -. criar nova branch
+git revert 'hash do commit' -> reverter um commit realizado.
+git stash -> 
+git stash pop ->
+git stash drop ->
+git stash add
