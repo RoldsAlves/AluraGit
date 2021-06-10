@@ -10,3 +10,4 @@ git pull -> baixa os aquivos do servidor
 git config -> configurações do repositorio
 git config --local user.name -> Informar nome do usuario
 git config --local user.email -> Informar email do usuario
+git commit --diff -> mostra as diferenças entre commits ou diferença entre o meu codigo e o ultimo commit
